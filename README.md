@@ -1,3 +1,3 @@
-![Screenshot_1687356791](https://github.com/nmarcin7/quizzApp/assets/83602541/31ae7f07-cadf-42ca-9cee-3f37c92d442f)
-![Screenshot_1687357226](https://github.com/nmarcin7/quizzApp/assets/83602541/10b8a682-1c84-4b58-a663-31e2d006558b)
-![Uploading Screenshot_1687357257.png…]()
+![quizz1](https://github.com/nmarcin7/quizzApp/assets/83602541/047f5ace-c2c4-4bc9-851d-c11f3f4bcdb9)
+![quizz2](https://github.com/nmarcin7/quizzApp/assets/83602541/f2b8d6ed-7e51-4452-9a06-eb8dc0002ff3)
+![quizz3](https://github.com/nmarcin7/quizzApp/assets/83602541/939874bf-406d-4cd8-889f-e47255e7329f)
