@@ -46,7 +46,7 @@ class ResultPage extends StatelessWidget {
               style: GoogleFonts.openSans(
                   fontSize: 18, fontWeight: FontWeight.bold),
             ),
-            SizedBox(
+            const SizedBox(
               height: 20,
             ),
             Text.rich(
@@ -59,7 +59,7 @@ class ResultPage extends StatelessWidget {
                     style: GoogleFonts.openSans(
                         fontSize: 16, fontWeight: FontWeight.bold),
                   ),
-                  TextSpan(text: ' out of 30'),
+                  TextSpan(text: ' out of 20'),
                 ],
               ),
             ),
